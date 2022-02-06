@@ -1,6 +1,6 @@
 import React from 'react'
 import {Outlet} from "react-router-dom";
-import "../styles/layouts/MainLayout.scss";
+import "./MainLayout.scss";
 const MainLayout = () => {
     return (
         <div>

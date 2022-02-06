@@ -1,5 +1,5 @@
 import React from 'react'
-import '../styles/pages/Index.scss'
+import './Index.scss'
 const Index = () => {
     return (
         <div className="index">
